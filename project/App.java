@@ -14,6 +14,6 @@ public class App {
 
       window.pack();
       window.setLocationRelativeTo(null);
-      window.setVisible(true);miguel
+      window.setVisible(true);
     }
 }
